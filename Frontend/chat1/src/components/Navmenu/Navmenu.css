@@ -1,0 +1,10 @@
+.span1{
+    border: 1px solid black;
+    width: 380px;
+    height: 628px;
+    background-color: coral;
+    overflow-y: scroll;
+}
+.flexof{
+    display: flex;
+}

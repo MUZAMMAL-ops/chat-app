@@ -1,0 +1,17 @@
+.list{
+    background-color: rgb(216, 103, 51);
+    width: 300px;
+    color: rgb(217, 205, 205);
+    margin-top: 8px;
+    margin-left: 26px;
+    border-radius: 8px;
+}
+ChatIcon{
+    margin-left: 0;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+}
